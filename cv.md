@@ -5,7 +5,7 @@
 * mobile phone number: 8(044) 549-09-06 (A1);
 
 #### **About me:**
-<p>I am 21 years old, born and raised in Gomel, Belarus. 
+<p>I am 23 years old, born and raised in Gomel, Belarus. 
 My goal is to find an activity in which I can realize myself as a person and as a professional.</p> 
 My strengths: the desire for new things, responsibility, not being afraid to try something new for yourself
 I quickly adapt to new things. I strive to acquire skills for working in the it industry, 
