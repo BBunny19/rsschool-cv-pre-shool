@@ -9,8 +9,7 @@
 @font-face {
     font-family: Monteserrat;
     font-style: initial;
-    font-weight: lighter;
-    line-height: 17px;    
+    font-weight: 400;        
     src: local(Monteserrat),
          url(/fonts/Montserrat-Thin.ttf)
 }
@@ -154,7 +153,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 167px;
+    width: auto;
     height: 640px;
     margin-top: 47px;    
     
@@ -193,26 +192,70 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-top: 90px;
-    margin-left: -140px;
+    margin-top: 100px;
+    margin-left: -155px;
     width: 387px;
     height: 741px;
+    font-family: Outfit;
+    font-size: 14px; 
 }
 
 #contentAboutMe {
-    
+    flex: 1 2 220px;           
 }
 
 #contentSkills {
-    
+    flex: 2 3 60px;
 }
 
 #contentCode {
-    
+    flex: 3 4 250px;
+    margin-left: -150px;
 }
 
-#contentEducate {
-    
+#contentEducat {
+    flex: 4 3 280px;
+}
+
+#gitHub {
+    display: flex;
+    flex-direction: row;    
+    width: 745px;
+    height: 90px;
+    background-color: #6A6052;    
+    margin-top: 0px;
+    font-style: Outfit;
 }
 
 
+
+#rsShool {
+    height: 80px;
+    width: 80px;
+    margin-top: -25px;
+}
+
+#iconsHub {
+    height: 40px;
+    width: 40px;
+    margin-left: 400px;  
+}
+
+#linkJs {
+    font-style: Outfit;
+    border-top: -50px;
+}
+
+#bbunny {
+ margin-top: 60px;
+ margin-left: 400px;
+}
+
+#yearGod {
+    font-style: otfit;
+    font-size: 25px;
+    
+}
+#blockOne {
+    width: 350px;
+}
