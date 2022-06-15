@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 400;
     src: local(Outfit),
-         url(/fonts/Outfit-VariableFont_wght.ttf)
+         url(Outfit-VariableFont_wght.ttf)
 }
 
 @font-face {
@@ -11,7 +11,7 @@
     font-style: initial;
     font-weight: 400;        
     src: local(Monteserrat),
-         url(/fonts/Montserrat-Thin.ttf)
+         url(Montserrat-Thin.ttf)
 }
 
 #listPage {
