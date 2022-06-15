@@ -1,0 +1,261 @@
+@font-face {
+    font-family: Outfit;
+    font-style: normal;
+    font-weight: 400;
+    src: local(Outfit),
+         url(./Outfit-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: Monteserrat;
+    font-style: initial;
+    font-weight: 400;        
+    src: local(Monteserrat),
+         url(./Montserrat-Thin.ttf)
+}
+
+#listPage {
+    display: block;        
+    width: 745px;
+    height: 1024px;
+    margin: auto;    
+}
+.rectanglLeft {
+    background-color: #675F55;
+    display: block;
+    height: 1024px;
+    width: 271px;
+}
+
+.circle {
+    display: flex;
+    width: 153px;
+    height: 153px;
+    padding-top: 51px;
+    padding-left: 59px; 
+    
+}
+
+.textCV {
+    display: block;
+    text-align: center;
+    font-family: Monteserrat;
+    font-size: 14px;
+    color: #F6F9EE;
+    width: 210px;
+    height: 85px;
+    margin-top: 21px;
+    margin-left: 32px;
+}
+
+.level {
+    display: block;
+    font-family: Outfit;
+    font-size: 20px;
+    line-height: 25.2px;
+    color: rgb(252, 252, 252);
+    margin-top: 55px;
+    margin-left: 34px;
+    text-transform: uppercase;
+}
+
+.levelEng {
+    margin-top: -24px;
+    display: flex;
+    font-family: Outfit;
+    color: rgb(252, 252, 252);
+    font-size: 16px;
+    margin-left: 34px;   
+}
+
+.aTho {
+    margin-right: 8px;
+    }
+
+
+.contactList {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 222px;
+    margin-left: 25px;
+    width: 246px;
+    height: 221px;
+    font-size: 14px;
+    color: #F6F9EE;
+    font-family: Outfit;
+}
+
+.textContact {
+    font-family: Monteserrat;
+    margin-top: -40px;
+    margin-left: 50px;
+}
+
+#contact {   
+    display: flex;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 7px;    
+    text-transform: uppercase;
+    color: rgb(252, 252, 252);
+    font-family: Outfit;
+}
+
+#iconsHome {
+    margin-left: 3px;
+    width: 38px;
+    height: 38px;
+}
+
+#iconsMail {
+    width: 44px;
+    height: 44px;
+}
+
+#iconsPhone {
+    margin-left: 10px;
+    width: 23px;
+    height: 31px;
+}
+
+#header {
+    margin-top: -1024px;
+    margin-left: 271px;
+    display: flex;
+    justify-content: center;
+    width: 474px;
+    height: 107px;
+    background-color: #DCC792;
+    font-size: 19px;
+    text-align: center;
+    font-family: Outfit;
+    color: #6A6052;
+}
+
+#allInfo {
+    display: flex;
+    flex-direction: initial;
+    height: 920px;
+    width: 474px;
+    background-color: #F6F9EE;
+    margin-left: 271px;
+}
+
+#lineMain {
+    width: 8px;
+    height: 793px;
+    margin-top: 65px;
+    margin-left: 32px;
+}
+
+#hidingName {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: auto;
+    height: 640px;
+    margin-top: 47px;    
+    
+}
+
+.hidingNameMe {
+   font-family: Outfit;
+   color: #B9A675;
+   font-size: 20px;
+   margin-left: 25px;   
+}
+
+#aboutMe {
+    flex: 1 2 180px;
+}
+
+#skills { 
+    flex: 2 3 45px; 
+}
+
+#codeEx {
+    flex: 3 4 201px;    
+}
+
+#educaTion {
+    flex: 4 3 105px;
+}
+
+#infoMe {
+    font-family: Monteserrat;
+    font-size: 14px;
+}
+
+
+#contentMe {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: -155px;
+    width: 387px;
+    height: 741px;
+    font-family: Outfit;
+    font-size: 14px; 
+}
+
+#contentAboutMe {
+    flex: 1 2 220px;           
+}
+
+#contentSkills {
+    flex: 2 3 60px;
+}
+
+#contentCode {
+    flex: 3 4 250px;
+    margin-left: -150px;
+}
+
+#contentEducat {
+    flex: 4 3 280px;
+}
+
+#gitHub {
+    display: flex;
+    flex-direction: row;    
+    width: 745px;
+    height: 90px;
+    background-color: #6A6052;    
+    margin-top: 0px;
+    font-style: Outfit;
+}
+
+
+
+#rsShool {
+    height: 80px;
+    width: 80px;
+    margin-top: -25px;
+}
+
+#iconsHub {
+    height: 40px;
+    width: 40px;
+    margin-left: 400px;  
+}
+
+#linkJs {
+    font-style: Outfit;
+    border-top: -50px;
+}
+
+#bbunny {
+ margin-top: 60px;
+ margin-left: 400px;
+}
+
+#yearGod {
+    font-style: otfit;
+    font-size: 25px;
+    
+}
+#blockOne {
+    width: 350px;
+}
